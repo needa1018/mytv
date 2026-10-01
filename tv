@@ -1163,7 +1163,7 @@ http://220.135.241.47:8306/0.ts
 http://220.135.241.47:8308/0.ts
 #EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.v1.mk/logo/民视第一台.png" group-title="港澳台",民视第一台
 http://220.135.241.47:8309/0.ts
-#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.v1.mk/logo/民视台湾台.png" group-title="台湾",民视台湾台
+#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.v1.mk/logo/民视台湾台.png" group-title="港澳台",民视台湾台
 http://220.135.241.47:8311/0.ts
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.v1.mk/logo/民视新闻台.png" group-title="港澳台",民视新闻台
 http://220.135.241.47:8310/0.ts
