@@ -622,11 +622,11 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226577/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/求索纪录.png" group-title="数字频道",求索纪录
 http://39.134.144.6:8089/PLTV/88888888/224/3221226727/index.m3u8
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/求索动物.png" group-title="数字频道",求索动物
-http://A/ku9/py/socks5.py?ip=117.179.119.22:20126&u=http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8?
+http://A/ku9/py/socks5.py?ip=221.229.214.145:20003&u=http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8?
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/求索科学.png" group-title="数字频道",求索科学
-http://A/ku9/py/socks5.py?ip=117.179.119.22:20126&u=http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8?
+http://A/ku9/py/socks5.py?ip=221.229.214.145:20003&u=http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8?
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/求索生活.png" group-title="数字频道",求索生活
-http://A/ku9/py/socks5.py?ip=117.179.119.22:20126&u=http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8?
+http://A/ku9/py/socks5.py?ip=221.229.214.145:20003&u=http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8?
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/浙江之江纪录.png" group-title="数字频道",之江纪录
 http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
 #EXTINF:-1 tvg-name="南国都市4K" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/南国都市.png" group-title="数字频道",南国都市
