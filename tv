@@ -342,8 +342,6 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226211/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226733/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://39.134.144.6:8089/PLTV/88888888/224/3221226146/index.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/山东卫视4K.png" group-title="卫视频道",山东卫视4K(50P)
-http://39.134.144.6:8089/PLTV/88888888/224/3221226742/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/山东卫视4K.png" group-title="卫视频道",山东卫视4K
 http://39.134.144.6:8089/PLTV/88888888/224/3221226760/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/山东卫视.png" group-title="卫视频道",山东卫视
@@ -522,7 +520,7 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-name="1905电影网" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/1905电影.png" group-title="数字频道",1905电影网
 #https://cdn.jdshipin.com/1905.php
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/黑莓电影.png" group-title="数字频道",黑莓电影
-http://A/ku9/py/socks5.py?ip=111.29.38.32:2022&u=http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=1000000004000019624&livemode=1&stbId=yu&mode=1&
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225681/1.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/黑莓电影.png" group-title="数字频道",黑莓电影
 http://A/ku9/py/socks5.py?ip=111.29.38.32:2022&u=http://111.29.9.33:6610/000000001000/1000000004000019624/index.m3u8?channel-id=bestzb&Contentid=1000000004000019624&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="短剧" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/短剧.png" group-title="数字频道",短剧
@@ -570,7 +568,7 @@ http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011523/1.m3u8?channe
 http://36.155.98.21/gslbserv.itv.cmvideo.cn:80/3000000020000011524/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=790995DFA9F142B8B114EDA03A996C61
 
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/哒啵赛事.png" group-title="数字频道",哒啵赛事
-http://A/ku9/py/socks5.py?ip=117.179.119.22:20126&u=http://39.134.65.106/PLTV/88888888/224/3221225559/1.m3u8?
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225559/1.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/哒啵赛事.png" group-title="数字频道",哒啵赛事
 http://PLTV/ku9/py/socks5.py?ip=120.226.12.155:31167&u=http://39.134.240.2/PLTV/1/224/3221225624/index.m3u8
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/哒啵电竞.png" group-title="数字频道",哒啵电竞
@@ -673,7 +671,7 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221227502/100001000000000600000000087880
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/动漫秀场.png" group-title="动画频道",动漫秀场
 http://39.134.144.6:8089/PLTV/88888888/224/3221226454/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/黑莓动画.png" group-title="动画频道",黑莓动画
-http://A/ku9/py/socks5.py?ip=111.29.38.32:2022&u=http://gslbserv.itv.cmvideo.cn/1000000004000021734/1.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225529/1.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/黑莓动画.png" group-title="动画频道",黑莓动画
 http://A/ku9/py/socks5.py?ip=111.29.38.32:2022&u=http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=bestzb&Contentid=1000000004000021734&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/黑莓动画.png" group-title="动画频道",黑莓动画
@@ -689,7 +687,7 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221226602/100001000000000600000000039575
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/浙江少儿.png" group-title="动画频道",浙江少儿
 http://ali-xwl.cztv.com/live/channel081080Pnew.m3u8
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/黑龙江少儿.png" group-title="动画频道",黑龙江少儿
-#http://[2409:8087:1a15:10d1::18]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://39.134.65.106/PLTV/88888888/224/3221225979/1.m3u8
 #EXTINF:-1  tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/内蒙古少儿.png" group-title="动画频道",内蒙古少儿
 http://play1-qk.nmtv.cn/live/2318general.m3u8
 #EXTINF:-1  tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/内蒙古少儿.png" group-title="动画频道",内蒙古少儿
