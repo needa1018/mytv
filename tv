@@ -340,10 +340,10 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226347/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221226211/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/北京卫视4K.png" group-title="卫视频道",北京卫视4K
 http://39.134.144.6:8089/PLTV/88888888/224/3221226733/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/北京卫视4K.png" group-title="卫视频道",北京卫视4K
-http://39.134.144.6:8089/PLTV/88888888/224/3221226742/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://39.134.144.6:8089/PLTV/88888888/224/3221226146/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/山东卫视4K.png" group-title="卫视频道",山东卫视4K(50P)
+http://39.134.144.6:8089/PLTV/88888888/224/3221226742/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/山东卫视4K.png" group-title="卫视频道",山东卫视4K
 http://39.134.144.6:8089/PLTV/88888888/224/3221226760/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/山东卫视.png" group-title="卫视频道",山东卫视
@@ -1207,6 +1207,51 @@ rtmp://f13h.mine.nu/sat/tv731
 rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1,tvg-id="MOMO1" tvg-name="MOMO1" tvg-logo="https://epg.v1.mk/logo/MOMO1.png" group-title="港澳台",momo'tv
 rtmp://f13h.mine.nu/sat/t
+
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV古装剧场.png" group-title="NewTV",古装剧场
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-name="动作电影" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV动作电影.png" group-title="NewTV",动作电影
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV超级电影.png" group-title="NewTV",超级电影
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV军旅剧场.png" group-title="NewTV",军旅剧场
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV家庭剧场.png" group-title="NewTV",家庭剧场
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-name="欢乐剧场" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV欢乐剧场.png" group-title="NewTV",欢乐剧场
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-name="海外剧场" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV海外剧场.png" group-title="NewTV",海外剧场
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:-1 tvg-name="爱情喜剧" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV爱情喜剧.png" group-title="NewTV",爱情喜剧
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV精品大剧.png" group-title="NewTV",精品大剧
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV超级电视剧.png" group-title="NewTV",超级电视剧
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV中国功夫.png" group-title="NewTV",中国功夫
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV超级综艺.png" group-title="NewTV",超级综艺
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="潮妈辣婆" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV潮妈辣婆.png" group-title="NewTV",潮妈辣婆
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV精品体育.png" group-title="NewTV",精品体育
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV超级体育.png" group-title="NewTV",超级体育
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-name="谍战大剧" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV谍战大剧.png" group-title="NewTV",谍战大剧
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-name="军事评论" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV军事评论.png" group-title="NewTV",军事评论
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-name="农业致富" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV农业致富.png" group-title="NewTV",农业致富
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-name="烽烟剧场" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV烽烟剧场.png" group-title="NewTV",烽烟剧场
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-name="怡伴健康" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/NewTV怡伴健康.png" group-title="NewTV",怡伴健康
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/虎牙.png" group-title="动画频道",名侦探柯南剧场版
 https://live.ottiptv.cc/huya/30080236
