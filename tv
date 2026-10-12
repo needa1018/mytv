@@ -711,9 +711,9 @@ http://A/ku9/py/socks5.py?ip=111.29.38.32:2022&u=http://gslbserv.itv.cmvideo.cn:
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/哈哈炫动.png" group-title="动画频道",哈哈炫动
 http://A/ku9/py/socks5.py?ip=111.29.38.32:2022&u=http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=yu&mode=1&$4M
 #EXTINF:-1 tvg-name="BesTV青春动漫" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/青春动漫.png" group-title="动画频道",BesTV青春动漫
-http://A/ku9/py/socks5.py?ip=111.29.38.32:2022&u=http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288008&livemode=1&stbId=yu&mode=1&$8M
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288008&livemode=1&stbId=yu&mode=1&$8M
 #EXTINF:-1 tvg-name="BesTV宝宝动画" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/宝宝动画.png" group-title="动画频道",BesTV宝宝动画
-http://A/ku9/py/socks5.py?ip=111.29.38.32:2022&u=http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288002&livemode=1&stbId=yu&mode=1&$8M
+http://A/ku9/py/socks5.py?ip=111.43.114.137:1080&u=http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000011000288002&livemode=1&stbId=yu&mode=1&$8M
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/优优宝贝.png" group-title="动画频道",优优宝贝
 rtsp://223.99.188.13/PLTV/88888888/224/3221227476/10000100000000060000000008764953_0.smil
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/优优宝贝.png" group-title="动画频道",优优宝贝
