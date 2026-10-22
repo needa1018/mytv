@@ -33,8 +33,6 @@ rtsp://223.99.188.13/PLTV/88888888/224/3221227691/382255484.smil
 rtsp://223.99.188.13/PLTV/88888888/224/3221227235/10000100000000060000000005622089_0.smil
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 rtsp://223.99.188.13/PLTV/88888888/224/3221227480/10000100000000060000000008787924_0.smil
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克4K
-http://A/ku9/py/socks5.py?ip=139.196.194.9:1011&u=http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 rtsp://223.99.188.13/PLTV/88888888/224/3221226590/10000100000000060000000003636571_0.smil
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV4K.png" group-title="央视频道",CCTV4K超高清
@@ -206,8 +204,14 @@ http://39.134.144.6:8089/PLTV/88888888/224/3221226328/index.m3u8
 http://39.134.144.6:8089/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV15.png" group-title="央视频道",CCTV-15 音乐
 http://39.134.144.6:8089/PLTV/88888888/224/3221226409/index.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://39.134.144.6:8089/PLTV/88888888/224/3221226569/index.m3u8
+##EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
+http://39.134.144.6:8089/PLTV/88888888/224/3221226793/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克4K
+http://39.134.144.6:8089/PLTV/88888888/224/3221226742/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克4K
+http://39.134.144.6:8089/PLTV/88888888/224/3221226792/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克4K
+http://A/ku9/py/socks5.py?ip=139.196.194.9:1011&u=http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://39.134.144.6:8089/PLTV/88888888/224/3221226093/index.m3u8
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gitee.com/ni-moumou/tvzb/raw/master/logo/CCTV4K.png" group-title="央视频道",CCTV4K超高清
